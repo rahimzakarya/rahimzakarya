@@ -1,3 +1,6 @@
+
+
+<h1 align="center"><a href="https://ibb.co/dQ0JPN0" ><img src="https://i.ibb.co/dQ0JPN0/IMG-0939.png" alt="IMG-0939" border="0" width="100" height="100"/></a></h1>
 <h1 align="center">hello world!, I'm RAHIM Zakarya</h1>
 <h3 align="center">A passionate Python coder</h3>
 
