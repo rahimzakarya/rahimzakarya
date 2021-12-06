@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **contact@zakarya.software**
 
-- ⚡ Fun fact **I think im programmer**
+- ⚡ Fun fact **I think that im programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
