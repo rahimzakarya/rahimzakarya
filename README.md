@@ -2,11 +2,11 @@
 
 <h1 align="center"><a href="https://ibb.co/dQ0JPN0" ><img src="https://i.ibb.co/dQ0JPN0/IMG-0939.png" alt="IMG-0939" border="0" width="100" height="100"/></a></h1>
 <h1 align="center">hello world!, I'm RAHIM Zakarya</h1>
-<h3 align="center">A passionate Python coder</h3>
+<h3 align="center">A passionate coder, student and content creator</h3>
 
 - 📫 How to reach me **contact@zakarya.software**
 
-- ⚡ Fun fact **I think that im programmer**
+- ⚡ Fun fact **I think im not silver :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
