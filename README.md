@@ -4,7 +4,7 @@
 <h1 align="center">hello world!, I'm RAHIM Zakarya</h1>
 <h3 align="center">A passionate Programmer, Student and Content creator</h3>
 
-- 📫 How to reach me **contact@zakarya.software**
+- 📫 How to reach me **dev@zakarya.me**
 
 - ⚡ Fun fact **I think im not silver :)**
 
