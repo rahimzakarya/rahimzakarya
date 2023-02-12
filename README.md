@@ -4,7 +4,7 @@
 <h1 align="center">hello world!, I'm RAHIM Zakarya</h1>
 <h3 align="center">A passionate Programmer, Student and Content creator</h3>
 
-- 📫 How to reach me **dev@zakarya.me**
+- 📫 How to reach me **r.zakarya.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
